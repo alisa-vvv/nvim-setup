@@ -46,3 +46,10 @@ o.termguicolors = true
 
 STEP 5: Plugin structure setup
 https://lazy.folke.io/usage/structuring - check here
+
+STEP 6: treesitter
+https://youtu.be/MpnjYb-t12A?feature=shared - this video helps
+after install, run command:
+:checkhealth nvim-treesitter
+to install language:
+:TSUpdate {lang}
