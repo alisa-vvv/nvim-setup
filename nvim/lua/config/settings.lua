@@ -10,3 +10,4 @@ vim.opt.title = true -- When on, the title of the window will be set to the valu
 vim.opt.swapfile = false -- disable swapfiles
 vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
+vim.opt.colorcolumn = "81"
